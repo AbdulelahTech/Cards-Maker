@@ -1,6 +1,6 @@
-# abdulelah_fluter_festival
+# abdulelah_flutter_festival
 
-A new Flutter project.
+This is my participation in flutter festival, it's a simple app more like tool that makes invitation cards in friendly and appealing user interface. 
 
 ## Getting Started
 
